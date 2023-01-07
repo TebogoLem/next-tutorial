@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="logo">
         <h1 style={{ display: "flex", alignItems: "center", gap: "0.5em" }}>
           <Image src="/logo.png" alt="next js logo" width={50} height={50} />
-          TBG's Bugatti List
+          {`TBG's Bugatti List`}
         </h1>
       </div>
       <ul>
